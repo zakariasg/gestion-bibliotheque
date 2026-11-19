@@ -37,3 +37,6 @@ python -m bibliotheque.main
 ## Contribuer
 
 Consultez [CONTRIBUTING.md](CONTRIBUTING.md) avant d'ouvrir une pull request.
+Zakaria Sghir
+## Auteurs
+- Zakaria Sghir
